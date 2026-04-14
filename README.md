@@ -68,3 +68,13 @@ Returns a direct image URL.
 | `tall` | 704 x 1408 |
 
 This skill requires a Neta API token (free trial available at https://www.neta.art/open/).
+
+## Example Output
+
+```bash
+node appicongenerator.js "professional app icon design, clean modern style, rounded corners, gradient background, centered symbol, iOS and Android app store ready, high detail, flat design with subtle depth and shadows"
+```
+
+![Example output](https://oss.talesofai.cn/picture/040420db-0391-48f7-ac53-606d2bd9d7cd.webp)
+
+> Prompt: *"professional app icon design, clean modern style, rounded corners, gradient background, centered symbol, iOS and Android app store ready, high detail, flat design with subtle depth and shadows"*
